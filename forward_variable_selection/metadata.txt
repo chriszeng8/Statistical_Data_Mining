@@ -1,0 +1,14 @@
+R: Crime rate: # of offenses reported to police per million population
+Age: The number of males of age 14-24 per 1000 population
+S: Indicator variable for Southern states (0 = No, 1 = Yes)
+Ed: Mean # of years of schooling x 10 for persons of age 25 or older
+Ex0: 1960 per capita expenditure on police by state and local government
+Ex1: 1959 per capita expenditure on police by state and local government
+LF: Labor force participation rate per 1000 civilian urban males age 14-24
+M: The number of males per 1000 females
+N: State population size in hundred thousands
+NW: The number of non-whites per 1000 population
+U1: Unemployment rate of urban males per 1000 of age 14-24
+U2: Unemployment rate of urban males per 1000 of age 35-39
+W: Median value of transferable goods and assets or family income in tens of $
+X: The number of families per 1000 earning below 1/2 the median income
