@@ -1,0 +1,5 @@
+my.data.frame=data.frame(y=rnorm(20),foo=rnorm(20),bar=rnorm(20),baz=rnorm(20))
+min.model = lm(y ~ 1, data=my.data.frame)
+biggest <- formula(lm(y~.,my.data.frame))
+fwd.model = step(min.model, direction='forward', scope=biggest)
+summary(fwd.model)
